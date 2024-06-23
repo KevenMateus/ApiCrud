@@ -1,0 +1,15 @@
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\bin\Debug\net8.0\ApiCrud.Service.deps.json
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\bin\Debug\net8.0\ApiCrud.Service.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\bin\Debug\net8.0\ApiCrud.Service.pdb
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\bin\Debug\net8.0\ApiCrud.Domain.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\bin\Debug\net8.0\ApiCrud.Domain.pdb
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.csproj.AssemblyReference.cache
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.AssemblyInfoInputs.cache
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.AssemblyInfo.cs
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.csproj.CoreCompileInputs.cache
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud..15F449DE.Up2Date
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\refint\ApiCrud.Service.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.pdb
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ref\ApiCrud.Service.dll
