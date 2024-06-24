@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19FEEE1A-5376-473A-8A5B-C7878E2481AF}|ApiCrud\\ApiCrud.csproj|c:\\users\\nevek\\source\\repos\\apicrud\\apicrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19FEEE1A-5376-473A-8A5B-C7878E2481AF}|ApiCrud\\ApiCrud.csproj|solutionrelative:apicrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|c:\\users\\nevek\\source\\repos\\apicrud\\apicrud.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|solutionrelative:apicrud.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "ApiCrud\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "ApiCrud\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAcwBkAAAAJAAAA",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Service\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "ApiCrud.Service\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:03:17.237Z",
+              "WhenOpened": "2024-06-24T01:23:09.083Z",
               "EditorCaption": ""
             }
           ]

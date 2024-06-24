@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCrud.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462b825da4c3ba07e470720438527da9c38b82e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3254698cfb61ddaa9b7048ed0ed2d95b06a816a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCrud.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCrud.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
