@@ -15,3 +15,4 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Data\obj\Debug\net8.0\ApiCrud.Data.p
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Data\obj\Debug\net8.0\ref\ApiCrud.Data.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Data\bin\Debug\net8.0\ApiCrud.Data.runtimeconfig.json
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Data\obj\Debug\net8.0\ApiCrud.Data.genruntimeconfig.cache
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Data\obj\Debug\net8.0\ApiCrud.Data.sourcelink.json

@@ -7,5 +7,11 @@ namespace ApiCrud.Domain.Interfaces.Services
         IList<UsuarioDto> ObterTodos();
 
         UsuarioDto PesquisarPorCodigo(int id);
+
+        int Criar(UsuarioDto usuario);
+
+        void Atualizar(UsuarioDto usuario);
+
+        void Remover(UsuarioDto usuario);
     }
 }

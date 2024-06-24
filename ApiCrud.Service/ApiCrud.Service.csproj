@@ -14,4 +14,8 @@
     <ProjectReference Include="..\ApiCrud.Domain\ApiCrud.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Utilitarios\" />
+  </ItemGroup>
+
 </Project>

@@ -10,3 +10,4 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Domain\obj\Debug\net8.0\ApiCrud.Doma
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Domain\obj\Debug\net8.0\refint\ApiCrud.Domain.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Domain\obj\Debug\net8.0\ApiCrud.Domain.pdb
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Domain\obj\Debug\net8.0\ref\ApiCrud.Domain.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Domain\obj\Debug\net8.0\ApiCrud.Domain.sourcelink.json

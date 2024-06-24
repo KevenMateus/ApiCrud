@@ -13,3 +13,4 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Ser
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\refint\ApiCrud.Service.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.pdb
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ref\ApiCrud.Service.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud.Service\obj\Debug\net8.0\ApiCrud.Service.sourcelink.json

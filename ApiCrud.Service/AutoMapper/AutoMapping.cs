@@ -8,7 +8,8 @@ namespace ApiCrud.Service.AutoMapper
     {
         public AutoMapping()
         {
-            CreateMap<Usuario, UsuarioDto>();
+            CreateMap<Usuario, UsuarioDto>()
+                .ReverseMap();
         }
     }
 }
