@@ -14,7 +14,7 @@ Esta API é destinada à gestão de postos de vacinação, vacinas disponíveis 
 
 1. **Criar o Banco de Dados**:
 
-   - Execute o script SQL fornecido ([Uploading Script Da Criação do Banco.txt…]()) para criar o banco de dados `ApiCrud`.
+   - Execute o script SQL fornecido [Script Da Criação do Banco.sql.txt](https://github.com/user-attachments/files/15964350/Script.Da.Criacao.do.Banco.sql.txt) para criar o banco de dados `ApiGestaoVacinas`.
    
 2. **Configuração da Conexão com o Banco de Dados**:
    - Abra o arquivo `appsettings.json` e configure a string de conexão com o banco de dados SQL Server.
