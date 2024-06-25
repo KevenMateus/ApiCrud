@@ -7,25 +7,25 @@ namespace ApiCrud.Controllers
 
     [ApiController]
     [Route("[controller]")]
-    public class UsuariosController : ControllerBase
+    public class PostosController : ControllerBase
     {
-        private readonly IUsuarioService _usuarioService;
+        private readonly IPostoService _postoService;
 
-        public UsuariosController(IUsuarioService usuarioService)
-            => _usuarioService = usuarioService;
+        public PostosController(IPostoService postoService)
+            => _postoService = postoService;
 
         /// <summary>
-        /// Consultar Tdos
+        /// Consultar Todos
         /// </summary>
         /// <response code="200">Consulta realizada com sucesso.</response>
         /// <response code="400">Não foi possível realizar a consulta.</response>
         /// <response code="404">Não localizado.</response>
         /// <response code="401">Acesso não autorizado.</response>
         [HttpGet]
-        public IActionResult GetUsuarios()
+        public IActionResult GetPostos()
         {
-            var usuarios = _usuarioService.ObterTodos();
-            return Ok(usuarios);
+            var postos = _postoService.ObterTodos();
+            return Ok(postos);
         }
 
         /// <summary>
@@ -37,53 +37,51 @@ namespace ApiCrud.Controllers
         /// <response code="404">Não localizado.</response>
         /// <response code="401">Acesso não autorizado.</response>
         [HttpGet("{id}")]
-        public IActionResult GetUsuario(int id)
+        public IActionResult GetPosto(int id)
         {
-            var usuario = _usuarioService.PesquisarPorCodigo(id);
+            var posto = _postoService.PesquisarPorCodigo(id);
 
-            if (usuario == null)
-            {
-                return NotFound();
-            }
+            if (posto == null)
+                return NotFound(new { Message = "Posto não encontrado" });
 
-            return Ok(usuario);
+            return Ok(posto);
         }
 
         /// <summary>
-        /// Criar um novo Usuário
+        /// Criar um novo Posto
         /// </summary>
-        /// <param name="usuario"></param>
+        /// <param name="posto"></param>
         /// <response code="200">Consulta realizada com sucesso.</response>
         /// <response code="400">Não foi possível realizar a consulta.</response>
         /// <response code="404">Não localizado.</response>
         /// <response code="401">Acesso não autorizado.</response>
         [HttpPost()]
-        public IActionResult Create(UsuarioDto usuario)
+        public IActionResult Create(PostoDto posto)
         {
-            int codigo = _usuarioService.Criar(usuario);
+            int codigo = _postoService.Criar(posto);
 
-            return Ok(new { Message = $"Usuário criado com sucesso! Codigo: {codigo}" });
+            return Ok(new { Message = $"Posto criado com sucesso! Codigo: {codigo}" });
         }
 
         /// <summary>
-        /// Atualizar Usuário
+        /// Atualizar Posto
         /// </summary>
-        /// <param name="usuario"></param>
+        /// <param name="posto"></param>
         /// <response code="200">Consulta realizada com sucesso.</response>
         /// <response code="400">Não foi possível realizar a consulta.</response>
         /// <response code="404">Não localizado.</response>
         /// <response code="401">Acesso não autorizado.</response>
         [HttpPut()]
-        public IActionResult Update(UsuarioDto usuario)
+        public IActionResult Update(PostoDto posto)
         {
-            UsuarioDto usuarioAtualizar = _usuarioService.PesquisarPorCodigo(usuario.Codigo);
+            PostoDto postoAtualizar = _postoService.PesquisarPorCodigo(posto.Codigo);
 
-            if (usuarioAtualizar == null)
-                NotFound(new { Message = "Usuário não encontrado" });
+            if (postoAtualizar == null)
+                return NotFound(new { Message = "Posto não encontrado" });
 
-            _usuarioService.Atualizar(usuario);
+            _postoService.Atualizar(posto);
 
-            return Ok(new { Message = $"Usuário atualizado com sucesso!" });
+            return Ok(new { Message = $"Posto atualizado com sucesso!" });
         }
 
         /// <summary>
@@ -97,14 +95,14 @@ namespace ApiCrud.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            UsuarioDto usuarioDeletar = _usuarioService.PesquisarPorCodigo(id);
+            PostoDto postoDeletar = _postoService.PesquisarPorCodigo(id);
 
-            if (usuarioDeletar == null)
-                NotFound(new { Message = "Usuário não encontrado" });
+            if (postoDeletar == null)
+                return NotFound(new { Message = "Posto não encontrado" });
             else
-                _usuarioService.Remover(usuario: usuarioDeletar);
+                _postoService.Remover(posto: postoDeletar);
 
-            return Ok(new { Message = $"Usuário deletado com sucesso!" });
+            return Ok(new { Message = $"Posto deletado com sucesso!" });
         }
     }
 }

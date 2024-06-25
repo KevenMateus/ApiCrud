@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|c:\\users\\nevek\\source\\repos\\apicrud\\apicrud.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|solutionrelative:apicrud.service\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|c:\\users\\nevek\\source\\repos\\apicrud\\apicrud.service\\services\\vacinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898FEBCE-ABF8-42BF-80D4-E9A3782FD897}|ApiCrud.Service\\ApiCrud.Service.csproj|solutionrelative:apicrud.service\\services\\vacinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEEE1A-5376-473A-8A5B-C7878E2481AF}|ApiCrud\\ApiCrud.csproj|c:\\users\\nevek\\source\\repos\\apicrud\\apicrud\\controllers\\vacinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FEEE1A-5376-473A-8A5B-C7878E2481AF}|ApiCrud\\ApiCrud.csproj|solutionrelative:apicrud\\controllers\\vacinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "ApiCrud.Service\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "ApiCrud.Service\\Services\\UsuarioService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "VacinaService.cs",
+              "DocumentMoniker": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\VacinaService.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Service\\Services\\VacinaService.cs",
+              "ToolTip": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud.Service\\Services\\VacinaService.cs",
+              "RelativeToolTip": "ApiCrud.Service\\Services\\VacinaService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:23:09.083Z",
+              "WhenOpened": "2024-06-25T03:10:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacinasController.cs",
+              "DocumentMoniker": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud\\Controllers\\VacinasController.cs",
+              "RelativeDocumentMoniker": "ApiCrud\\Controllers\\VacinasController.cs",
+              "ToolTip": "C:\\Users\\nevek\\source\\repos\\ApiCrud\\ApiCrud\\Controllers\\VacinasController.cs",
+              "RelativeToolTip": "ApiCrud\\Controllers\\VacinasController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:09:09.001Z",
               "EditorCaption": ""
             }
           ]

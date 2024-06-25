@@ -7,6 +7,8 @@ namespace ApiCrud.Dependencies
     {
         public static void RegisterRepository(this IServiceCollection services)
         {
+            services.AddScoped<IPostoRepository, PostoRepository>();
+            services.AddScoped<IVacinaRepository, VacinaRepository>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
         }
     }

@@ -4,6 +4,7 @@ namespace ApiCrud.Domain.Dto
 {
     public class UsuarioDto
     {
+        [Key]
         public int Codigo { get; set; }
 
         [Required(ErrorMessage = "Nome é obrigatório.")]

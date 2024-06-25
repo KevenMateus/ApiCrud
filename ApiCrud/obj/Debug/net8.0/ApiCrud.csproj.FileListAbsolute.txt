@@ -9,6 +9,8 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\ApiCrud.pdb
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\EntityFramework.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\Humanizer.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -44,6 +46,7 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Composition.
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Memory.Data.dll
@@ -110,6 +113,11 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-arm64\
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
@@ -128,6 +136,7 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.AssemblyInf
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.csproj.CoreCompileInputs.cache
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.sourcelink.json
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
@@ -142,12 +151,3 @@ C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\refint\ApiCrud.dll
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.pdb
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
 C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ref\ApiCrud.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\EntityFramework.SqlServer.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\EntityFramework.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\System.Data.SqlClient.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\nevek\source\repos\ApiCrud\ApiCrud\obj\Debug\net8.0\ApiCrud.sourcelink.json

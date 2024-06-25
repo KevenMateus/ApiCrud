@@ -13,6 +13,8 @@ namespace ApiCrud.Data.Context
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.ApplyConfiguration(new PostoConfig());
+            modelBuilder.ApplyConfiguration(new VacinaConfig());
             modelBuilder.ApplyConfiguration(new UsuarioConfig());
         }
     }

@@ -8,6 +8,12 @@ namespace ApiCrud.Service.AutoMapper
     {
         public AutoMapping()
         {
+            CreateMap<Posto, PostoDto>()
+                .ReverseMap();
+
+            CreateMap<Vacina, VacinaDto>()
+                .ReverseMap();
+
             CreateMap<Usuario, UsuarioDto>()
                 .ReverseMap();
         }
