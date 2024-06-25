@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCrud.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+121c493beaef9444090dac503f8a1f3edff1f1de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a449905a9299bab481e69aa6940f44a915bc306")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCrud.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCrud.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
